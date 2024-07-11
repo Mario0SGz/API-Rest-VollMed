@@ -43,6 +43,8 @@ public class Consulta {
         this.fecha=fecha;
     }
 
+
+
     public void cancelar(MotivoCancelacion motivo) {
         this.motivoCancelacion = motivo;
     }
